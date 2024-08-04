@@ -1,1 +1,1 @@
-# paint-github-5ccb6
+# config
